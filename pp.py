@@ -8,3 +8,4 @@ class Node:
 		self._children.append(node)
 	def __iter__(self):
 		return iter(self._children)
+	def
