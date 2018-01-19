@@ -7,4 +7,5 @@ class Node:
 	def add_child(self, node):
 		self._children.append(node)
 	def __iter__(self):
-		return kkkkkkkkkkkkkkkk
+		return 
+	append
